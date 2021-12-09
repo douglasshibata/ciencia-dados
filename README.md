@@ -2,12 +2,18 @@
 
 Repositório criado para armazenar todos os notebooks que criei para realizar alguma análise em ciência de dados.
 
-
-O repositório possuí projetos realizados nas disciplinas de Ciência de dados e Inteligência Artificial do curso de Sistemas para Internet no IFB.
-
-O repositório também possuí projetos realizados na semana da alura sobre ciência de dados.
-
-O repositório também possuí projetos realizados para fins de aprendizado.
+## Organização do repositório
+O repositório esta organizado por diretórios
+ * [Alura](https://github.com/douglasshibata/ciencia-dados/tree/master/Alura)
+    * Contém arquivos que foram realizados na semana de ciência de dados promovida pela alura
+  * [Aprendendo](https://github.com/douglasshibata/ciencia-dados/tree/master/Aprendendo)
+    *  Contém arquivos que fui fazendo para melhorar o aprendizado
+  * [Exemplos](https://github.com/douglasshibata/ciencia-dados/tree/master/Exemplos)
+    * Contém arquivos que peguei para ter exemplos de como resolver tais problemas
+  * [IA - IFB](https://github.com/douglasshibata/ciencia-dados/tree/master/IA%20-IFB)
+    * Contém alguns arquivos que foram realizados na disciplina de Inteligência Artifical do curso de Sistemas para Internet do IFB
+  * [ICD - IFB](https://github.com/douglasshibata/ciencia-dados/tree/master/ICD%20-%20IFB)
+    * Contém os exercícios e exemplos que foram utilizados na disciplina de Introdução a Ciência de dados do Curso de sistemas para internet do IFB
 
 
 ### Como usar os arquivos
